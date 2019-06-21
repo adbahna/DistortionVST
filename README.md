@@ -1,4 +1,10 @@
-In order to compile (will be made easier later):
+# DistortionVST
+
+DistortionVST is a distortion plugin for any **DAW** (Digital Audio Workstation) that can load vst3 files
+
+The code was written with the help of the [JUCE][juce] framework. The DSP and the GUI were both made using their framework. 
+
+# # Installation 
 
 1. Download latest version of JUCE or clone latest JUCE repo
 2. Open the Projucer executable in the downloads folder or master 
@@ -10,3 +16,5 @@ In order to compile (will be made easier later):
 8. Build and place .vst3 file in whatever path you choose for your DAW
 
 Happy Clipping! 
+
+[juce]: https://juce.com/
