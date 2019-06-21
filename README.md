@@ -26,6 +26,8 @@ The code was written with the help of the [JUCE][juce] framework. The DSP and th
 
 ```
 
+
+
 Happy Clipping! 
 
 [juce]: https://juce.com/
