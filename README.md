@@ -4,7 +4,7 @@ DistortionVST is a distortion plugin for any **DAW** (Digital Audio Workstation)
 
 The code was written with the help of the [JUCE][juce] framework. The DSP and the GUI were both made using their framework. 
 
-# # Installation 
+## Installation 
 
 1. Download latest version of JUCE or clone latest JUCE repo
 2. Open the Projucer executable in the downloads folder or master 
