@@ -26,7 +26,7 @@ The code was written with the help of the [JUCE][juce] framework. The DSP and th
 
 ```
 
-![alt text](https://github.com/adbahna/DistortionVST/dvst.png)
+![](dvst.png)
 
 Happy Clipping! 
 
